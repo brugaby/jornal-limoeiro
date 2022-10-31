@@ -1,0 +1,57 @@
+header{
+    background-color: thistle ;
+    margin: 15px;
+
+}
+nav ul{
+     list-style-type: none;
+     display: flex;
+     justify-content: space-around;
+     width: 100%;
+
+}
+nav ul li a{
+    font-size: 30px;
+    color: white ;
+    font-family: arial;
+}
+
+section{
+    margin: 15px;
+   background-color: rgb(231, 154, 154);
+   float: left;
+}
+
+body{
+    background-color: rgb(255, 203, 211);
+    
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: whitesmoke;
+    font-family:arial ;
+}
+h2{
+    font-size: 25px;
+    font-family: arial;
+    color: cornsilk;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: arial;
+    color: cornsilk;
+}
+
+
+img{
+    width: 500px;
+}
+img{
+    width: 400px;
+}
+footer{
+    margin: 15px;
+    background-color: rgb(231, 154, 154);
+}
